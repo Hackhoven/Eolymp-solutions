@@ -15,7 +15,7 @@ int main()
         array[i] = fabs(x);
     }
 
-
+    
     double max = array[0];
     for(int i = 0; i < n; i++)
     {
