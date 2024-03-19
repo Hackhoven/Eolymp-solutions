@@ -8,7 +8,7 @@ Eolymp is a platform for competitive programming and problem-solving. This repos
 
 ## Folder Structure
 
-- The repository contains two folders: `c` and `cpp`.
+- The repository contains two folders: `c` and `c++`.
 - Each task has its own file named according to the task ID.
 - Within each task file, you will find:
   - Source code files (in C or C++) named after the task ID (e.g., `10017.cpp`).
